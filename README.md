@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Akkii0101
-- 👀 I’m interested in ...Python    
+- 👋 Hi, I’m @Aks.yv
+- - 👀 I’m interested in ...Python    
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
